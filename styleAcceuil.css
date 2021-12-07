@@ -1,0 +1,99 @@
+/*ceci est un commentaire */
+
+body
+{
+	background-color:rgba(255, 255, 130, 0.7);
+	text-align:centered;
+}
+#corpsPage
+{
+	background-color:rgba(255, 255, 255, 0.1);
+	width:800px;
+	margin:auto;
+	border-radius:20px;
+}
+#logo
+{
+	border-radius:20px;
+	margin-left:194px;
+	margin-top:10px;
+}
+#logo:hover
+{
+	box-shadow:10px 10px 10px red;
+}
+#slogan
+{
+	text-align:center;
+	font-family:"Arial Black",Arial,sans-serif;
+	text-decoration:underline;
+	color:green;
+	height:40px;
+}
+#presentation
+{
+	text-align:center;
+}
+fieldset,footer
+{
+	padding-left:20px;
+	padding-right:20px;
+	margin-left:20px;
+	margin-right:20px;
+}
+h1
+{
+	color:rgba(136, 0, 21, 1);
+	background-color:white;
+}
+h2
+{
+	color:white;
+	background-color:black;
+}
+p
+{
+	font-size:20px;
+}
+.capture
+{
+	text-align:inline;
+	height:314px;
+}
+.bouton
+{
+	width:180px;
+	height:40px;
+	font-size:25px;
+}
+.bouton:hover
+{
+	box-shadow:12px 12px 50px red;
+}
+.bouton:active
+{
+	box-shadow:12px 12px 50px green;
+}
+footer
+{
+	padding-bottom:20px;
+	margin-bottom:20px;
+}
+#copyright
+{
+	text-align:center;
+}
+.logo_rx
+{
+	width:58px;
+	height:58px;
+	border-radius:10px;
+	margin-left:5px;
+}
+#contact
+{
+	font-family:"Arial Black",Arial,sans-serif;
+	text-decoration:underline;
+	color:rgba(0,0, 255, 0.7);
+	height:30px;
+}
