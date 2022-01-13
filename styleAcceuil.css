@@ -2,7 +2,7 @@
 
 body
 {
-	background-color:rgba(255, 255, 130, 0.7);
+	background-color:rgba(128, 0, 128, 0.7);
 	text-align:centered;
 }
 #corpsPage
@@ -59,6 +59,7 @@ p
 {
 	text-align:inline;
 	height:314px;
+	width:392px;
 }
 .bouton
 {
